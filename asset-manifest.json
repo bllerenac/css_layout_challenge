@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/css_layout_challenge/static/css/main.0d5a0bf0.css",
+    "main.js": "/css_layout_challenge/static/js/main.b68ba39b.js",
+    "static/js/787.07aeb8a5.chunk.js": "/css_layout_challenge/static/js/787.07aeb8a5.chunk.js",
+    "index.html": "/css_layout_challenge/index.html",
+    "main.0d5a0bf0.css.map": "/css_layout_challenge/static/css/main.0d5a0bf0.css.map",
+    "main.b68ba39b.js.map": "/css_layout_challenge/static/js/main.b68ba39b.js.map",
+    "787.07aeb8a5.chunk.js.map": "/css_layout_challenge/static/js/787.07aeb8a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d5a0bf0.css",
+    "static/js/main.b68ba39b.js"
+  ]
+}
